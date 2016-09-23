@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TextLinkToBrowser</string>
+    <string name="link">TextLinkToBrowser</string>
+
+    <string name="text_hyperlink"><b>Checkout link below:</b>
+        \n\n- <a href="http://veesivee.com">veesivee.com</a>
+        \n\n- <a href="http://veesivee.blogspot.co.id">veesivee.blogspot.co.id</a>
+
+    </string>
+
+    <string name="defaultpassword">User Guide
+        <a href="http://www.cleverfinger.com.au/user-guide/">http://www.cleverfinger.com.au/user-guide/</a></string>
+</resources>
